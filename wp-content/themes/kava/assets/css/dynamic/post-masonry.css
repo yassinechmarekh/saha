@@ -1,0 +1,8 @@
+.posts-list.list-style-v3 .comments-link {}
+.posts-list.list-style-v4 .comments-link {}
+.posts-list.list-style-v4 .posts-list__item.masonry-item .masonry-item-wrap .comments-link:hover {}
+.masonry-item-wrap.invert, .masonry-item-wrap.invert .posted-on, .masonry-item-wrap.invert .cat-links, .masonry-item-wrap.invert .byline, .masonry-item-wrap.invert .tags-links, .masonry-item-wrap.invert .entry-meta, .masonry-item-wrap.invert a, .masonry-item-wrap.invert .btn-icon, .masonry-item-wrap.invert .comments-button {}
+.list-style-v5 .masonry-item-wrap.invert .posted-on, .list-style-v5 .masonry-item-wrap.invert .cat-links, .list-style-v5 .masonry-item-wrap.invert .byline, .list-style-v5 .masonry-item-wrap.invert .tags-links, .list-style-v5 .masonry-item-wrap.invert .posted-on a, .list-style-v5 .masonry-item-wrap.invert .cat-links a, .list-style-v5 .masonry-item-wrap.invert .tags-links a, .list-style-v5 .masonry-item-wrap.invert .byline a, .list-style-v5 .masonry-item-wrap.invert .comments-link, .list-style-v5 .masonry-item-wrap.invert .entry-title a:hover {}
+.list-style-v5 .masonry-item-wrap.invert .posted-on a:hover, .list-style-v5 .masonry-item-wrap.invert .cat-links a:hover, .list-style-v5 .masonry-item-wrap.invert .tags-links a:hover, .list-style-v5 .masonry-item-wrap.invert .byline a:hover, .list-style-v5 .masonry-item-wrap.invert .comments-link:hover {}
+.posts-list.list-style-v10 .masonry-item-inner .space-between-content .comments-link {}
+.posts-list.list-style-v10 .masonry-item-inner .space-between-content .comments-link:hover {}

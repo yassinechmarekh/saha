@@ -1,0 +1,50 @@
+input, optgroup, select, textarea {}
+;
+}
+
+
+.comment-form .submit, .wpcf7-submit, .post-password-form label + input {}
+;
+	line-height: $button_line_height;
+	font-family: @font_family( $button_font_family );
+	letter-spacing: $button_letter_spacing {}
+;
+
+	color: $invert_text_color;
+	background-color: $accent_color;
+}
+.comment-form .submit:hover, .wpcf7-submit:hover, .post-password-form label + input:hover {}
+.comment-reply-title {}
+;
+	line-height: $h4_line_height;
+	font-family: @font_family( $h4_font_family );
+	letter-spacing: $h4_letter_spacing {}
+;
+	color: $h4_color;
+}
+
+.comment-form-cookies-consent input[type='checkbox']:checked ~ label[for=wp-comment-cookies-consent]:before {}
+#cancel-comment-reply-link {}
+#cancel-comment-reply-link:hover {}
+.comment-body .fn {}
+;
+	line-height: $h6_line_height;
+	font-family: @font_family( $h6_font_family );
+	letter-spacing: $h6_letter_spacing {}
+;
+	color: $h6_color;
+}
+.comment-date__time {}
+.comment-reply-link {}
+;
+	line-height: $button_line_height;
+	font-family: @font_family( $button_font_family );
+	letter-spacing: $button_letter_spacing {}
+;
+}
+
+
+::-webkit-input-placeholder {}
+::-moz-placeholder {}
+:-moz-placeholder {}
+:-ms-input-placeholder {}

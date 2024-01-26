@@ -1,0 +1,23 @@
+.btn, button, input[type='button'], input[type='reset'], input[type='submit'] {}
+;
+	line-height: $button_line_height;
+	font-family: @font_family( $button_font_family );
+	letter-spacing: $button_letter_spacing {}
+;
+
+	color: $invert_text_color;
+	background-color: $accent_color;
+}
+.btn:hover, button:hover, input[type='button']:hover, input[type='reset']:hover, input[type='submit']:hover, input[type='reset']:hover {}
+.btn.invert-button {}
+.btn.invert-button:hover {}
+#toTop {}
+$totop_horizontal_padding {}
+;
+	border-radius: $totop_border_radius {}
+;
+	background-color: $totop_bg_color;
+	color: $totop_icon_color;
+}
+
+#toTop:hover {}

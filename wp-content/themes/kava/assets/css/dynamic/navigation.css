@@ -1,0 +1,17 @@
+.breadcrumbs_item {}
+;
+	line-height: $breadcrumbs_line_height;
+	font-family: @font_family( $breadcrumbs_font_family );
+	letter-spacing: $breadcrumbs_letter_spacing {}
+;
+}
+
+.breadcrumbs_item_sep, .breadcrumbs_item_link {}
+.breadcrumbs_item_link:hover {}
+.post-navigation-container i {}
+.post-navigation-container .nav-links a:hover .post-title, .post-navigation-container .nav-links a:hover .nav-text {}
+.post-navigation-container .nav-links a:hover i {}
+.posts-list-navigation .pagination .page-numbers, .page-links > span, .page-links > a {}
+.posts-list-navigation .pagination a.page-numbers:hover, .posts-list-navigation .pagination .page-numbers.current, .page-links > a:hover, .page-links > span {}
+.posts-list-navigation .pagination .next, .posts-list-navigation .pagination .prev {}
+.posts-list-navigation .pagination .next:hover, .posts-list-navigation .pagination .prev:hover {}

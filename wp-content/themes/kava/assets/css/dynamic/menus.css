@@ -1,0 +1,11 @@
+.main-navigation {}
+;
+	line-height: $menu_line_height;
+	font-family: @font_family( $menu_font_family );
+	letter-spacing: $menu_letter_spacing {}
+;
+}
+
+.main-navigation a, .menu-item-has-children:before {}
+.main-navigation a:hover, .main-navigation .current_page_item>a, .main-navigation .current-menu-item>a, .main-navigation .current_page_ancestor>a, .main-navigation .current-menu-ancestor>a {}
+.mobile-menu-toggle-button {}

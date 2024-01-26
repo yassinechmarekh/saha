@@ -1,0 +1,7 @@
+.page-preloader {}
+.site-logo__link, .site-logo__link:hover {}
+.page-title {}
+;
+	color: $h2_color;
+}
+@media (min-width: 1200px) {}

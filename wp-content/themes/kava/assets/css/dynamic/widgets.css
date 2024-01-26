@@ -1,0 +1,18 @@
+.widget_recent_entries a, .widget_recent_comments a {}
+;
+	line-height: $h6_line_height;
+	font-family: @font_family( $h6_font_family );
+	letter-spacing: $h6_letter_spacing {}
+;
+	color: $h6_color;
+}
+
+.widget_recent_entries a:hover, .widget_recent_comments a:hover {}
+.widget_recent_entries .post-date, .widget_recent_comments .recentcomments {}
+.widget_recent_comments .comment-author-link a {}
+.widget_recent_comments .comment-author-link a:hover {}
+.widget_calendar th, .widget_calendar caption {}
+.widget_calendar tbody td a {}
+.widget_calendar tbody td a:hover {}
+.widget_calendar tfoot td a {}
+.widget_calendar tfoot td a:hover {}
